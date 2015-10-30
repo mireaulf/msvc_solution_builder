@@ -30,3 +30,12 @@
 # Binary files
 *.sdf
 *.opensdf
+
+# Log files
+*.log
+*.tlog
+*.lastbuildstate
+
+# MSVC
+*.pdb
+*.idb
